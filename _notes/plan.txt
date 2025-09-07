@@ -1,0 +1,32 @@
+(core)
+        login
+
+admin
+        dashboard
+        users
+                -create
+                        
+                        name
+                        email
+                        password
+                        =>add permission
+                        specific permission  numberOfDaysAllowed
+                        No over all days => numberOfDaysAllowed
+
+
+                -list
+                -edit
+                -delete
+        permissions
+                list
+                => no create
+        
+
+(user)
+        dashboard
+        according to permission => show menus
+        Numerology
+
+
+=> Navbar
+
