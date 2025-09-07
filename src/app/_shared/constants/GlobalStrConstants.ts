@@ -1,4 +1,4 @@
-import RouteConstants from "@/frontend/shared/constants/RouteConstants";
+// import RouteConstants from "@/frontend/shared/constants/RouteConstants";
 
 const GlobalStrConstants = {
     NOT_FOUND: "NOT_FOUND",
@@ -10,21 +10,21 @@ const GlobalStrConstants = {
 
     SIDEBAR_LINKS: [
         { icon: "", menuLabel: "Dashboard", routePath: "/dashboard" },
-        {
-            icon: "",
-            menuLabel: "Student Category",
-            routePath: RouteConstants.STUDENT_CATEGORIES_LIST,
-        },
-        {
-            icon: "",
-            menuLabel: "Student Subcategory",
-            routePath: RouteConstants.STUDENT_SUBCATEGORY_LIST,
-        },
-        {
-            icon: "",
-            menuLabel: "Students",
-            routePath: RouteConstants.STUDENTS_LIST,
-        },
+        // {
+        //     icon: "",
+        //     menuLabel: "Student Category",
+        //     routePath: RouteConstants.STUDENT_CATEGORIES_LIST,
+        // },
+        // {
+        //     icon: "",
+        //     menuLabel: "Student Subcategory",
+        //     routePath: RouteConstants.STUDENT_SUBCATEGORY_LIST,
+        // },
+        // {
+        //     icon: "",
+        //     menuLabel: "Students",
+        //     routePath: RouteConstants.STUDENTS_LIST,
+        // },
         // {
         //     icon: "",
         //     menuLabel: "AdminUsers",
