@@ -54,6 +54,9 @@ body {
     .vmodal{
       @apply w-full bg-gray-50;
     }
+    .title1{
+      @apply text-2xl  my-3 font-bold text-blue-600
+    }
 /* } */
 
 
